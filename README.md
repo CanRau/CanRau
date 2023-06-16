@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Can Rau</h1>
 <h3 align="center">A passionate developer, originally from Berlin, Germany, living in Cusco, Perú</h3>
 
+<p align="center">  
+<img src="https://www.konduktum.com/assets/k-avatar.jpg" width="80" />
+</br>
+CTO & co-founder of <a href="https://www.konduktum.com">konduktum</a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canrau&label=Profile%20views&color=0e75b6&style=flat" alt="canrau" /> </p>
 
 <p align="left"> <a href="https://twitter.com/canrau" target="blank"><img src="https://img.shields.io/twitter/follow/canrau?logo=twitter&style=for-the-badge" alt="canrau" /></a> </p>
-
-- 🔭 I’m currently working on improving my website design and adding a custom CMS && **a couple React Native mobile apps**
-
-- 🌱 I’m currently learning **React Native**
-
-- 📝 I regularly write articles on [https://www.canrau.com](https://www.canrau.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
