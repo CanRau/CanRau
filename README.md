@@ -9,13 +9,11 @@ CTO & co-founder of <a href="https://www.konduktum.com">konduktum</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canrau&label=Profile%20views&color=0e75b6&style=flat" alt="canrau" /> </p>
 
-<p align="left"> <a href="https://twitter.com/canrau" target="blank"><img src="https://img.shields.io/twitter/follow/canrau?logo=twitter&style=for-the-badge" alt="canrau" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://bsky.app/profile/canrau.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="canrau" height="30" width="40" /></a>
 <a href="https://codepen.io/canrau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="canrau" height="30" width="40" /></a>
 <a href="https://dev.to/canrau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="canrau" height="30" width="40" /></a>
-<a href="https://twitter.com/canrau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="canrau" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3484824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3484824" height="30" width="40" /></a>
 <a href="https://hashnode.com/@canrau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@canrau" height="30" width="40" /></a>
 <a href="https://medium.com/@canrau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@canrau" height="30" width="40" /></a>
